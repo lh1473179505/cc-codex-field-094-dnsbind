@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "msgid": 41004,
+  "qname": "www.example.com.",
+  "qtype": "A",
+  "zone": "example.com.",
+  "kid": "z-example",
+  "answers": [
+    {
+      "name": "www.example.com.",
+      "type": "CNAME",
+      "ttl": 300,
+      "rdata": "www.notexample.com."
+    },
+    {
+      "name": "www.notexample.com.",
+      "type": "A",
+      "ttl": 300,
+      "rdata": "192.0.2.50"
+    }
+  ],
+  "authority": [],
+  "additional": [],
+  "sig": "KT3xxeQU8V7vCiZWcL4V06GQ8XT53FVG-6lTRkxp8yw"
+}

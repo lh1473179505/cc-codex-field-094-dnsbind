@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "msgid": 41009,
+  "qname": "sub.example.com.",
+  "qtype": "A",
+  "zone": "example.com.",
+  "kid": "z-example",
+  "answers": [],
+  "authority": [
+    {
+      "name": "sub.example.com.",
+      "type": "NS",
+      "ttl": 300,
+      "rdata": "ns1.other.net."
+    }
+  ],
+  "additional": [
+    {
+      "name": "ns2.other.net.",
+      "type": "A",
+      "ttl": 300,
+      "rdata": "192.0.2.53"
+    }
+  ],
+  "sig": "DRGVQcZ0ZP6pNPpm2oQnmG84njv77Bx1LVquH0C2Wwo"
+}

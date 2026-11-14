@@ -1,0 +1,5 @@
+{
+  "min_ttl": 60,
+  "max_cname_depth": 2,
+  "allow_glue": true
+}

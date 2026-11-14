@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "msgid": 41008,
+  "qname": "www.example.com.",
+  "qtype": "A",
+  "zone": "example.com.",
+  "kid": "z-example",
+  "answers": [
+    {
+      "name": "www.example.com.",
+      "type": "A",
+      "ttl": 300,
+      "rdata": "192.0.2.10"
+    }
+  ],
+  "authority": [],
+  "additional": [
+    {
+      "name": "www.example.com.",
+      "type": "A",
+      "ttl": 30,
+      "rdata": "192.0.2.10"
+    }
+  ],
+  "sig": "KT3HJJPoBcBMzLAcsr2_8xfTh6XNmLwz7dz7DE1XjgM"
+}

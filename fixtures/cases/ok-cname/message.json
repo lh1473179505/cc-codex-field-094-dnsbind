@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "msgid": 41002,
+  "qname": "Www.Example.COM.",
+  "qtype": "A",
+  "zone": "Example.COM.",
+  "kid": "z-example",
+  "answers": [
+    {
+      "name": "Www.Example.COM.",
+      "type": "CNAME",
+      "ttl": 120,
+      "rdata": "App.Example.COM."
+    },
+    {
+      "name": "App.Example.COM.",
+      "type": "A",
+      "ttl": 300,
+      "rdata": "192.0.2.20"
+    }
+  ],
+  "authority": [],
+  "additional": [],
+  "sig": "Lz2nKfFmQfDIGrs4PcUp4KN_iHw00yvrTa6lK3lIrNk"
+}

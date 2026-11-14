@@ -1,0 +1,19 @@
+{
+  "keys": {
+    "z-example": {
+      "secret": "a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1",
+      "status": "active",
+      "zone": "example.com."
+    },
+    "z-revoked": {
+      "secret": "c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3",
+      "status": "revoked",
+      "zone": "example.com."
+    },
+    "z-other": {
+      "secret": "d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4d4",
+      "status": "active",
+      "zone": "other.net."
+    }
+  }
+}

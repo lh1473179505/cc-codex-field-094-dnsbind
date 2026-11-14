@@ -1,0 +1,19 @@
+{
+  "version": "v1",
+  "msgid": 41006,
+  "qname": "www.example.com.",
+  "qtype": "A",
+  "zone": "example.com.",
+  "kid": "z-revoked",
+  "answers": [
+    {
+      "name": "www.example.com.",
+      "type": "A",
+      "ttl": 300,
+      "rdata": "192.0.2.40"
+    }
+  ],
+  "authority": [],
+  "additional": [],
+  "sig": "v7M7fPFM6zT5TjFCf-jLO-Q4bEHNQx3sOChR8PhkfSk"
+}
